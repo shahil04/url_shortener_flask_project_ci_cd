@@ -3,7 +3,7 @@
 
 
 Perfect 👍
-I’ll now give you a **BEGINNER-FRIENDLY, STEP-BY-STEP CI/CD GUIDE** **specifically for *this exact Flask URL Shortener code*** using **GitHub Actions**.
+I’ll now give you a **BEGINNER-FRIENDLY, STEP-BY-STEP CI/CD GUIDE** **specifically for *this exact Flask URL Shortener code*** using **GitHub Actions**.s
 
 I’ll assume:
 
